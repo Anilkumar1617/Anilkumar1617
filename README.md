@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/gangisetty-anilkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gangisetty-anilkumar" height="30" width="40" /></a>
 <a href="https://fb.com/gangisetty anilkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gangisetty anilkumar" height="30" width="40" /></a>
 <a href="https://instagram.com/anilkumargangisetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anilkumargangisetty" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@educationaltutorials7855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@educationaltutorials7855" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/learning" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@educationaltutorials7855" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

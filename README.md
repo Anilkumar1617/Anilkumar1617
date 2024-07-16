@@ -4,23 +4,21 @@
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilkumar1617&label=Profile%20views&color=0e75b6&style=flat" alt="anilkumar1617" /> </p>
 
-- 🌱 I’m currently built **Small Applications**
+- 🌱 I’m currently looking for **Java Developer Position as a Fresher**
 
 - 👨‍💻 All of my projects are available at [linkedin.com/in/gangisetty-anilkumar](linkedin.com/in/gangisetty-anilkumar)
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **ganilkumar920@gmail.com**
+- 📫 How to reach me **ganilkumar.vibes@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VraTEcZBEccJqBLrxaLbLsD8PoTl1FEL/view?usp=drive_link](https://drive.google.com/file/d/1VraTEcZBEccJqBLrxaLbLsD8PoTl1FEL/view?usp=drive_link)
+- 📄 Know about my experiences (https://drive.google.com/file/d/14klnaYMCkTEBqVBTZfG_vv93QJhWCERB/view?usp=drive_link)
 
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gangisetty-anilkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gangisetty-anilkumar" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100092669036543&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100092669036543&mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/anilkumargangisetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anilkumargangisetty" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@educationaltutorials7855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@educationaltutorials7855" height="30" width="40" /></a>
 </p>
 

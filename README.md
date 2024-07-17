@@ -18,6 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <a href="www.youtube.com/@educationaltutorials7855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/YouTub.ealt.svg" alt="@educationaltutorials7855" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/gangisetty-anilkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gangisetty-anilkumar" height="30" width="40" /></a>
 </p>
 

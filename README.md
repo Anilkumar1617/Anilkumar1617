@@ -12,9 +12,9 @@
 
 - 📫 How to reach me **ganilkumar.vibes@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/14klnaYMCkTEBqVBTZfG_vv93QJhWCERB/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/153mLcGqckdttFR72sxfgSyyRbjUnNE9c/view?usp=drivesdk
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fact **I am Hard Worker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

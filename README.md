@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **ganilkumar.vibes@gmail.com**
+- 📫 How to reach me **ganilkumar.global@gmail.com**
 
 - 📄 Know about my experiences https://drive.google.com/file/d/153mLcGqckdttFR72sxfgSyyRbjUnNE9c/view?usp=drivesdk
 
